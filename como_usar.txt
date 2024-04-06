@@ -1,0 +1,9 @@
+## Como Usar
+
+Para usar basta abrir o terminal linux ou windows e digitar:
+
+    python3 bloqueia-yt.py 
+    ou
+    python3 desbloqueia-yt.py
+
+    
