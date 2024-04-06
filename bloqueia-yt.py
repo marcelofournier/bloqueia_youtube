@@ -1,5 +1,13 @@
 import os
 
+"""
+O objetivo deste programa é simples: bloquear o acesso ao youtube
+pelo navegador web, quando acessado via url
+Apesar de ternicamente ter um solução bastante simples, pode ser muito útil
+tanto em ambientes empresariais como domésticos.
+"""
+
+
 # Caminho do arquivo hosts
 hosts_path = '/etc/hosts'
 

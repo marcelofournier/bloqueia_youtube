@@ -1,0 +1,46 @@
+# Bloqueia Youtube
+
+Breve descrição do projeto.
+
+O objetivo deste programa é simples: bloquear o acesso ao youtube
+pelo navegador web, quando acessado via url.
+Apesar de, tecnicamente falando, ter um solução bastante simples, pode ser muito útil em ambientes empresariais e/ou domésticos.
+
+
+## Índice
+
+1. [Sobre](#sobre)
+2. [Recursos](#recursos)
+3. [Instalação](#instalação)
+4. [Como Usar](#como-usar)
+5. [Contribuição](#contribuição)
+6. [Licença](#licença)
+
+## Sobre
+
+Descrição detalhada do projeto, sua finalidade e contexto. Este é o lugar para fornecer informações mais detalhadas sobre o que o projeto faz, por que ele existe e como ele pode ser útil.
+
+## Recursos
+
+- Lista de recursos principais do projeto.
+- Pode incluir links para demonstrações, exemplos de uso, capturas de tela, etc.
+
+## Instalação
+
+Instruções passo a passo sobre como instalar o projeto e suas dependências. Certifique-se de incluir qualquer pré-requisito necessário para a instalação.
+
+## Como Usar
+
+Guia detalhado sobre como usar o projeto. Forneça exemplos e instruções claras para ajudar os usuários a começar a trabalhar com o projeto.
+
+## Contribuição
+
+Se o projeto aceitar contribuições de outros desenvolvedores, explique como eles podem fazer isso. Isso pode incluir orientações sobre como relatar problemas, enviar solicitações de recebimento, etc.
+
+## Licença
+
+Informe a licença sob a qual o projeto está disponível. Por exemplo, MIT, Apache 2.0, GPL, etc.
+
+---
+
+**Nota:** Este é apenas um modelo básico. Sinta-se à vontade para personalizá-lo de acordo com as necessidades específicas do seu projeto.
